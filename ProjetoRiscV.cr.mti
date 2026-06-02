@@ -1,0 +1,127 @@
+C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_uart.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_uart.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_uart
+
+Top level modules:
+	pl_uart
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_cpu_tb
+
+Top level modules:
+	pl_cpu_tb
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_forward.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_forward.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_forward
+
+Top level modules:
+	pl_forward
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_pipe_pkg.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_pipe_pkg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package pl_pipe_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_imem.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_imem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_imem
+
+Top level modules:
+	pl_imem
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_alu
+
+Top level modules:
+	pl_alu
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_hazard.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_hazard.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_hazard
+
+Top level modules:
+	pl_hazard
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_top
+
+Top level modules:
+	pl_top
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top_no_pll.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top_no_pll.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_top_no_pll
+
+Top level modules:
+	pl_top_no_pll
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_regfile.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_regfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_regfile
+
+Top level modules:
+	pl_regfile
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu_ctrl.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu_ctrl.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_alu_ctrl
+
+Top level modules:
+	pl_alu_ctrl
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_datapath.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_datapath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package pl_datapath_sv_unit
+-- Importing package pl_pipe_pkg
+-- Compiling module pl_datapath
+
+Top level modules:
+	pl_datapath
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_cpu
+
+Top level modules:
+	pl_cpu
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_control.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_control.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_control
+
+Top level modules:
+	pl_control
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_sign_ext.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_sign_ext.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_sign_ext
+
+Top level modules:
+	pl_sign_ext
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pll_10mhz.v {1 {vlog -work work -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pll_10mhz.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pll_10mhz
+
+Top level modules:
+	pll_10mhz
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv {0 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_mmio
+** Error (suppressible): C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv(79): (vlog-2388) 'tx_byte' already declared in this scope (pl_mmio) at C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv(60).
+
+} {} {}} C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_dmem.sv {1 {vlog -work work -sv -stats=none C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_dmem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_dmem
+
+Top level modules:
+	pl_dmem
+
+} {} {}}

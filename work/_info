@@ -1,0 +1,487 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+vpl_alu
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1780427209
+!i10b 1
+!s100 =oEflN3]5jV]F`9kMcd?n1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IP[REJRbPInM@N91g2WTh73
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/mrcm/Documents/Projeto-Risc-v
+Z5 w1780425163
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu.sv
+!i122 147
+L0 15 31
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1780427209.000000
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+vpl_alu_ctrl
+R0
+R1
+!i10b 1
+!s100 j`SKhEF3IMRJcPEcP[6VM3
+R2
+I9N9R34FRH7VVQ^h2h8L2=0
+R3
+S1
+R4
+w1780426775
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu_ctrl.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu_ctrl.sv
+!i122 148
+L0 18 45
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu_ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_alu_ctrl.sv|
+!i113 1
+R8
+R9
+vpl_control
+R0
+R1
+!i10b 1
+!s100 <jV2nK]5Y<RmIJbPk7EPC2
+R2
+I7mY]k]Dli]XRUM<lI^0PH0
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_control.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_control.sv
+!i122 149
+L0 29 63
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_control.sv|
+!i113 1
+R8
+R9
+vpl_cpu
+R0
+R1
+!i10b 1
+!s100 ]NO905Qehe=ja[dI?mCde3
+R2
+IANOd8]J@W6diTDX6TJ=]50
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu.sv
+!i122 150
+L0 20 94
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu.sv|
+!i113 1
+R8
+R9
+vpl_cpu_tb
+R0
+R1
+!i10b 1
+!s100 _maQ<QMY>B7l^F_ogliF?1
+R2
+ISzFdNNg;`AnX0YBl[lW<W0
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv
+!i122 151
+L0 36 235
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv|
+!i113 1
+R8
+R9
+vpl_datapath
+R0
+Z10 DXx4 work 11 pl_pipe_pkg 0 22 Q[B54FCK^S0`;K^Z81aGH2
+DXx4 work 19 pl_datapath_sv_unit 0 22 I6eGoGk`NModmld<SMjoQ1
+Z11 !s110 1780427210
+R3
+r1
+!s85 0
+!i10b 1
+!s100 >J=_I9EXOX4kOk]<:Mk4l3
+I;PYejDIJUgi@LfkAToPXD3
+!s105 pl_datapath_sv_unit
+S1
+R4
+R5
+Z12 8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_datapath.sv
+Z13 FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_datapath.sv
+!i122 152
+L0 27 343
+R6
+31
+R7
+Z14 !s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_datapath.sv|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_datapath.sv|
+!i113 1
+R8
+R9
+Xpl_datapath_sv_unit
+R0
+R10
+R11
+VI6eGoGk`NModmld<SMjoQ1
+r1
+!s85 0
+!i10b 1
+!s100 P]JREhUYkD3XZcHz7R`jB3
+II6eGoGk`NModmld<SMjoQ1
+!i103 1
+S1
+R4
+R5
+R12
+R13
+!i122 152
+L0 25 0
+R6
+31
+R7
+R14
+R15
+!i113 1
+R8
+R9
+vpl_dmem
+R0
+R11
+!i10b 1
+!s100 kCchG@>><;JJadYnO?DFg2
+R2
+IeDgHlddcX78Bo=nJhck>K2
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_dmem.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_dmem.sv
+!i122 153
+L0 16 24
+R6
+r1
+!s85 0
+31
+Z16 !s108 1780427210.000000
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_dmem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_dmem.sv|
+!i113 1
+R8
+R9
+vpl_forward
+R0
+R11
+!i10b 1
+!s100 eGX[`U1]HkJMNe=TC;D[a3
+R2
+INPRX4eUcI^D2BhjCeO41K3
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_forward.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_forward.sv
+!i122 154
+L0 16 22
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_forward.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_forward.sv|
+!i113 1
+R8
+R9
+vpl_hazard
+R0
+R11
+!i10b 1
+!s100 `eN>?DLUj=eJQaSOa2WAe0
+R2
+IJZLZ]7Vm=0S<b3_KS:A8]2
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_hazard.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_hazard.sv
+!i122 155
+L0 16 13
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_hazard.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_hazard.sv|
+!i113 1
+R8
+R9
+vpl_imem
+R0
+R11
+!i10b 1
+!s100 oABL1GICWn@lo6@F3XNdV2
+R2
+I4VhLaGEA;`L42JfMMZ91g2
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_imem.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_imem.sv
+!i122 156
+L0 15 17
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_imem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_imem.sv|
+!i113 1
+R8
+R9
+vpl_mmio
+R0
+!s110 1780427318
+!i10b 1
+!s100 =ZiAOgWnj0m@_EhXIh=9M2
+R2
+IPH><>5N1Y>dS`C;1V>nV20
+R3
+S1
+R4
+w1780427305
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv
+!i122 164
+L0 25 145
+R6
+r1
+!s85 0
+31
+!s108 1780427318.000000
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_mmio.sv|
+!i113 1
+R8
+R9
+Xpl_pipe_pkg
+R0
+R11
+!i10b 1
+!s100 L:kiKC_oMhNNfYhVl5[K13
+R2
+IQ[B54FCK^S0`;K^Z81aGH2
+VQ[B54FCK^S0`;K^Z81aGH2
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_pipe_pkg.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_pipe_pkg.sv
+!i122 157
+L0 12 0
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_pipe_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_pipe_pkg.sv|
+!i113 1
+R8
+R9
+vpl_regfile
+R0
+R11
+!i10b 1
+!s100 >oY<oZn`fHGC@zaaz49:=2
+R2
+Ida;9M@1W3RJ_jAZaKNhXU0
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_regfile.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_regfile.sv
+!i122 158
+L0 23 24
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_regfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_regfile.sv|
+!i113 1
+R8
+R9
+vpl_sign_ext
+R0
+Z17 !s110 1780427211
+!i10b 1
+!s100 R5h1a?e9X8h^]<dL;8P381
+R2
+IZ;N5e[oOm^6nc7_ZA:Eje1
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_sign_ext.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_sign_ext.sv
+!i122 159
+L0 14 23
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_sign_ext.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_sign_ext.sv|
+!i113 1
+R8
+R9
+vpl_top
+R0
+R17
+!i10b 1
+!s100 aMNVzla[AbNg4<0aH1NP=0
+R2
+IChzF>`1R3FoXm7O9CW@Yj2
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top.sv
+!i122 160
+L0 22 49
+R6
+r1
+!s85 0
+31
+Z18 !s108 1780427211.000000
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top.sv|
+!i113 1
+R8
+R9
+vpl_top_no_pll
+R0
+R17
+!i10b 1
+!s100 H>JFX=onI5L0N9BCJoLK_2
+R2
+IT1nah>RgLRk@Qk1f3]l8W1
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top_no_pll.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top_no_pll.sv
+!i122 161
+L0 35 37
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top_no_pll.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_top_no_pll.sv|
+!i113 1
+R8
+R9
+vpl_uart
+R0
+R17
+!i10b 1
+!s100 9XlJ5PceYE83[FC1O3m5>1
+R2
+IlXaDc:Q3dCCRmN0A;B_SZ3
+R3
+S1
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_uart.sv
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_uart.sv
+!i122 162
+L0 30 209
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_uart.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_uart.sv|
+!i113 1
+R8
+R9
+vpll_10mhz
+R17
+!i10b 1
+!s100 VdaY7@nX3527oNRIT22N70
+R2
+IfOC>z8:LbMDo^[BFV8V643
+R3
+R4
+R5
+8C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pll_10mhz.v
+FC:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pll_10mhz.v
+!i122 163
+L0 14 104
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pll_10mhz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pll_10mhz.v|
+!i113 1
+o-work work
+R9

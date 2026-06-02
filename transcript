@@ -1,0 +1,109 @@
+# Compile of pl_alu.sv was successful.
+# Compile of pl_alu_ctrl.sv was successful.
+# Compile of pl_control.sv was successful.
+# Compile of pl_cpu.sv was successful.
+# Compile of pl_cpu_tb.sv was successful.
+# Compile of pl_datapath.sv was successful.
+# Compile of pl_dmem.sv was successful.
+# Compile of pl_forward.sv was successful.
+# Compile of pl_hazard.sv was successful.
+# Compile of pl_imem.sv was successful.
+# Compile of pl_mmio.sv failed with 1 errors.
+# Compile of pl_pipe_pkg.sv was successful.
+# Compile of pl_regfile.sv was successful.
+# Compile of pl_sign_ext.sv was successful.
+# Compile of pl_top.sv was successful.
+# Compile of pl_top_no_pll.sv was successful.
+# Compile of pl_uart.sv was successful.
+# Compile of pll_10mhz.v was successful.
+# 18 compiles, 1 failed with 1 error.
+# Compile of pl_alu.sv was successful.
+# Compile of pl_alu_ctrl.sv was successful.
+# Compile of pl_control.sv was successful.
+# Compile of pl_cpu.sv was successful.
+# Compile of pl_cpu_tb.sv was successful.
+# Compile of pl_datapath.sv was successful.
+# Compile of pl_dmem.sv was successful.
+# Compile of pl_forward.sv was successful.
+# Compile of pl_hazard.sv was successful.
+# Compile of pl_imem.sv was successful.
+# Compile of pl_mmio.sv failed with 1 errors.
+# Compile of pl_pipe_pkg.sv was successful.
+# Compile of pl_regfile.sv was successful.
+# Compile of pl_sign_ext.sv was successful.
+# Compile of pl_top.sv was successful.
+# Compile of pl_top_no_pll.sv was successful.
+# Compile of pl_uart.sv was successful.
+# Compile of pll_10mhz.v was successful.
+# 18 compiles, 1 failed with 1 error.
+# Compile of pl_mmio.sv was successful.
+vsim -gui work.pl_cpu_tb
+# vsim -gui work.pl_cpu_tb 
+# Start time: 16:09:51 on Jun 02,2026
+# Loading sv_std.std
+# Loading work.pl_cpu_tb
+# Loading work.pl_cpu
+# Loading work.pl_control
+# Loading work.pl_alu_ctrl
+# Loading work.pl_pipe_pkg
+# Loading work.pl_datapath_sv_unit
+# Loading work.pl_datapath
+# Loading work.pl_imem
+# Loading work.pl_hazard
+# Loading work.pl_regfile
+# Loading work.pl_sign_ext
+# Loading work.pl_forward
+# Loading work.pl_alu
+# Loading work.pl_dmem
+# Loading work.pl_mmio
+# Loading work.pl_uart
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "program.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_imem.sv(25)
+#    Time: 0 ps  Iteration: 0  Instance: /pl_cpu_tb/dut/datapath/imem
+# ** Warning: (vsim-7) Failed to open readmem file "data.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_dmem.sv(29)
+#    Time: 0 ps  Iteration: 0  Instance: /pl_cpu_tb/dut/datapath/dmem
+# AVISO: timeout apos 2000 ciclos (halt nao detectado)
+# --- Estado final dos registradores ---
+#   x1 = 0xxxxxxxxx
+#   x2 = 0xxxxxxxxx
+#   x3 = 0xxxxxxxxx
+#   x4 = 0xxxxxxxxx
+#   x5 = 0xxxxxxxxx
+#   x6 = 0xxxxxxxxx
+#   x7 = 0xxxxxxxxx
+#   x8 = 0xxxxxxxxx
+#   x9 = 0xxxxxxxxx
+#   x10 = 0xxxxxxxxx
+#   x11 = 0xxxxxxxxx
+#   x12 = 0xxxxxxxxx
+#   x13 = 0xxxxxxxxx
+#   x14 = 0xxxxxxxxx
+#   x15 = 0xxxxxxxxx
+#   x16 = 0xxxxxxxxx
+#   x17 = 0xxxxxxxxx
+#   x18 = 0xxxxxxxxx
+#   x19 = 0xxxxxxxxx
+#   x20 = 0xxxxxxxxx
+#   x21 = 0xxxxxxxxx
+#   x22 = 0xxxxxxxxx
+#   x23 = 0xxxxxxxxx
+#   x24 = 0xxxxxxxxx
+#   x25 = 0xxxxxxxxx
+#   x26 = 0xxxxxxxxx
+#   x27 = 0xxxxxxxxx
+#   x28 = 0xxxxxxxxx
+#   x29 = 0xxxxxxxxx
+#   x30 = 0xxxxxxxxx
+#   x31 = 0xxxxxxxxx
+# --- Estado final da dmem (palavras nao-zero) ---
+# --- Comparacao com golden.txt ---
+# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "golden.txt" for reading.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv(244)
+#    Time: 200351 ns  Iteration: 0  Instance: /pl_cpu_tb
+# AVISO: golden.txt nao encontrado -- pulando comparacao.
+# PASS: saida corresponde ao golden.
+# ** Note: $stop    : C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv(232)
+#    Time: 200351 ns  Iteration: 0  Instance: /pl_cpu_tb
+# Break in Module pl_cpu_tb at C:/Users/mrcm/Documents/Projeto-Risc-v/rv32i_pipelined_base_project/rv32i_pipelined_base_project/src/pl_cpu_tb.sv line 232
