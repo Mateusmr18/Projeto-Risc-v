@@ -34,8 +34,8 @@ module pl_alu (
             4'd08:   ALUResult = $signed(SrcA) >>> SrcB[4:0]; //SRA / SRAI
 
 
-            4'd09:   ALUResult = 32'(SrcA < SrcB);
-            4'd11:   ALUResult = 32'($signed(SrcA) < $signed(SrcB));
+            4'd09:   ALUResult = 32'(SrcA < SrcB); //SLTU / SLTUI
+            4'd11:   ALUResult = 32'($signed(SrcA) < $signed(SrcB)); //SLT / SLTI
             default: ALUResult = 32'b0;
         endcase
     end
